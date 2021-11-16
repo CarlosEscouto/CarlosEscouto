@@ -1,10 +1,10 @@
 ### Hello World! 😜  
 
-I am a **Fullstack Software Engineer** from Brazil  
+I am a **Full Stack Software Engineer** from Brazil  
 *Lover of specialty coffees and passionate about developing people*
 
 <br>
-<pre>I currently work as a <b>Tech lead</b> at <a href="">@b4bventures</a></pre>
+<pre>I currently work as a <b>Tech Lead</b> at <a href="https://www.grupoa.com.br/">+A Educação</a></pre>
 
 <br>
 
@@ -23,7 +23,7 @@ I am a **Fullstack Software Engineer** from Brazil
 
 ### Skills 😎
 
-#### Langagues
+#### Languages
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -31,7 +31,7 @@ I am a **Fullstack Software Engineer** from Brazil
 
 <br>
 
-#### Tecnologies
+#### Technologies
 <img align="left" alt="react" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img align="left" alt="react" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
