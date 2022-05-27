@@ -8,7 +8,7 @@ I am a **Full Stack Software Engineer** from Brazil
 
 <br>
 
-- 💼   _&nbsp;_ Working on frontend and backend project using mainly Vue and Nodejs
+- 💼   _&nbsp;_ Working on frontend and backend project using mainly Nuxtjs, Nextjs and Nodejs
 - 🔭   _&nbsp;_ Learning design patterns and clean code
 - 🌱   _&nbsp;_ I love software and solution architecture
 <br></br>
