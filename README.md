@@ -4,7 +4,7 @@ I am a **Full Stack Software Engineer** from Brazil
 *Lover of specialty coffees and passionate about developing people*
 
 <br>
-<pre>I currently work as a <b>Tech Lead</b> at <a href="https://www.isalab.com.br/">ISA Lab</a></pre>
+<pre>I currently work as a <b>Head of Technology</b> at <a href="https://www.isasaude.com/">ISA Saúde</a></pre>
 
 <br>
 
